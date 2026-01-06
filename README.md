@@ -4,9 +4,9 @@ This project applies unsupervised machine learning techniques to segment custome
 
 ## Dataset
 
--Customer demographic and behavioral dataset
--Data was cleaned and preprocessed for analysis
--Features were selected and scaled to ensure reliable clustering
+- Customer demographic and behavioral dataset
+- Data was cleaned and preprocessed for analysis
+- Features were selected and scaled to ensure reliable clustering
 
 ## Methods
 
